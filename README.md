@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 Skills: C/ C++/ Python / Qt / QML
 
-[<img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'>]
+<img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'>
+<img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'>
+
       
 
 - 🌱 I’m currently learning Qt QML  

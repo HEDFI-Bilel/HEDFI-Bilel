@@ -3,6 +3,8 @@
 I am Bilel from Tunisia, and I am an Advaced Technologies engineer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEDFI-Bilel)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEDFI-Bilel&show_icons=true&theme=radical)
 <!--
 **HEDFI-Bilel/HEDFI-Bilel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

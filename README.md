@@ -17,20 +17,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-Skills: C/ C++/ Python / Qt / QML
-
-[<img src='[[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg]]']
- <!--
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 -->
+
+
+Skills: C/ C++/ Python / Qt / QML
+
+[<img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'>]
+      
+
 - 🌱 I’m currently learning Qt QML  
 - 👯 I’m looking to collaborate on software application using Qt QML 
 - 📫 How to reach me:  - 📫 How to reach me: https://www.linkedin.com/in/hedfi-bilel/  

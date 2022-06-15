@@ -25,7 +25,7 @@ Skills: C/ C++/ Python / Qt / QML
 </br>
 - 🌱 I’m currently learning Qt QML  
 - 👯 I’m looking to collaborate on software application using Qt QML 
-- 📫 How to reach me: https://www.linkedin.com/in/hedfi-bilel/ 
+- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hedfi-bilel//) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HEDFI-Bilel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hedfi-bilel//)  

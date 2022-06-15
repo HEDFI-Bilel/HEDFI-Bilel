@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c.png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/c%2B%2B.png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/python .png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/386489_qt_icon.png' height='40' width='40'>
 <img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/cmake.png'>
-## OS
+## OS:
 <img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/linux.png'><img src='https://github.com/HEDFI-Bilel/HEDFI-Bilel/blob/master/github%20icons/windows-10.png' height='40' width='40'>
 
 - 🌱 I’m currently learning Qt QML  & Yocto

@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is Hedfi Bilel
-#### I am software engineer 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: C/ C++/ Python / Qt / QML
-
+<br> 
+</br>
 - 🌱 I’m currently learning Qt QML  
 - 👯 I’m looking to collaborate on software application using Qt QML 
 - 📫 How to reach me: https://www.linkedin.com/in/hedfi-bilel/ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/HEDFI-Bilel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hedfi-bilel//)  
-
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/HEDFI-Bilel/HEDFI-Bilel)](https://github.com/HEDFI-Bilel/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/HEDFI-Bilel/HEDFI-Bilel)](https://github.com/HEDFI-Bilel/github-readme-stats)
@@ -40,3 +39,4 @@ Skills: C/ C++/ Python / Qt / QML
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/HEDFI-Bilel/HEDFI-Bilel)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/HEDFI-Bilel/HEDFI-Bilel)  
+-->
